@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29424.173
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema-4.2 - Queue", "Tema-4.2 - Queue.csproj", "{37F6A24D-A104-4243-9BD3-7E25852F8FDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema-4.2 - Stack", "..\Tema-4.2 - Stack\Tema-4.2 - Stack.csproj", "{1F3C7CC3-8B80-4565-A5DF-CB512AFE2DDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{37F6A24D-A104-4243-9BD3-7E25852F8FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37F6A24D-A104-4243-9BD3-7E25852F8FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37F6A24D-A104-4243-9BD3-7E25852F8FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F3C7CC3-8B80-4565-A5DF-CB512AFE2DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3C7CC3-8B80-4565-A5DF-CB512AFE2DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3C7CC3-8B80-4565-A5DF-CB512AFE2DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3C7CC3-8B80-4565-A5DF-CB512AFE2DDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
