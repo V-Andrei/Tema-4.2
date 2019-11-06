@@ -12,4 +12,8 @@ namespace Tema_4._2___Stack
         {
         }
     }
+    class Stack
+    {
+
+    }
 }
